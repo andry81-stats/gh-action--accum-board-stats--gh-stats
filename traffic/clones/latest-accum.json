@@ -1,9 +1,9 @@
 {
-  "timestamp" : "2021-12-30T16-25-00Z",
+  "timestamp" : "2021-12-31T00-56-25Z",
   "count_outdated" : 1,
   "uniques_outdated" : 1,
-  "count" : 35,
-  "uniques" : 22,
+  "count" : 43,
+  "uniques" : 27,
   "clones" : [
     {
       "timestamp": "2021-12-18T00:00:00Z",
@@ -49,10 +49,10 @@
     },
     {
       "timestamp": "2021-12-30T00:00:00Z",
-      "count": 8,
-      "count_minmax": [ 8, 8 ],
-      "uniques": 4,
-      "uniques_minmax": [ 4, 4 ]
+      "count": 16,
+      "count_minmax": [ 8, 16 ],
+      "uniques": 9,
+      "uniques_minmax": [ 4, 9 ]
     }
   ]
 }
